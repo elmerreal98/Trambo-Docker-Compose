@@ -1,6 +1,8 @@
 # Trambo-Docker-Compose
 Marzo 4, 2020. Ejercicio de docker compose
 
+![alt](./pictures/ss1.png)
+
 ## Introduction
 To do this exercise, i used the following technologies/tools:
 - Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
